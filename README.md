@@ -8,10 +8,9 @@ Passionate quantitative analyst actively seeking Traineeship in Commodity Tradin
 
 * 🌍  I'm based in Geneva
 * ✉️  You can contact me at [moisebea11@gmail.com](mailto:moisebea11@gmail.com)
-* 🚀  I'm currently working on [Python Data Structure](http://https://github.com/Moisebea/PythonDatastructure)
+* 🚀  I'm currently working on [Python Data Structure](http://github.com/Moisebea/PythonDatastructure)
 * 🧠  I'm learning Pandas , NumPy, Matplotlib, Scikit-Learn , C# , SQL , Power BI and Tableau
 * 🤝  I'm open to collaborating on Commodity Trading and Blockchain project
-* ⚡  MMA
 
 <a href="https://www.x.com/Moise_bea" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Moise_bea?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
@@ -29,4 +28,5 @@ src="https://img.shields.io/twitter/follow/Moise_bea?logo=twitter&style=for-the-
 
 <p align="left"> <a href="https://www.github.com/Moisebea" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Moise_bea" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+
+
